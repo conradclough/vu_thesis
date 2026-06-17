@@ -43,7 +43,7 @@ BEST_COMBOS: dict[str, str] = {
     "Q10": "RA",
     "Q11": "(none)",
     "Q14": "(none)",
-    "Q18": "(none)",
+    "Q18": "J",
 }
 
 CSV_FIELDS = [
